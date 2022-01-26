@@ -1,0 +1,23 @@
+{
+  "name": "udemy_react",
+  "version": "1.0.0",
+  "description": "Projects from The Complete React Developer Course (w/ Hooks and Redux), by Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorGalbier/Udemy_React.git"
+  },
+  "author": "Vitor Galbier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorGalbier/Udemy_React/issues"
+  },
+  "homepage": "https://github.com/VitorGalbier/Udemy_React#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
